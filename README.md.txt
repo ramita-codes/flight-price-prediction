@@ -14,6 +14,7 @@ The dataset contains information about airline flights including:
 - class
 - price
 
+# Flight Price Prediction
 Dataset format: CSV
 
 ## Machine Learning Model
