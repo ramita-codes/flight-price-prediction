@@ -42,6 +42,3 @@ The model predicts flight prices and visualizes:
 
 Actual Price vs Predicted Price.
 
-## Visualization
-
-![Prediction Graph](predicted_vs_actual.png)
